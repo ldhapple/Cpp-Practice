@@ -1,0 +1,5 @@
+﻿  main.cpp
+  read_find.cpp
+c:\users\user\desktop\c++ practice\read_find\read_find\read_find.cpp(50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  Read_Find.vcxproj -> C:\Users\user\Desktop\C++ practice\Read_Find\Debug\Read_Find.exe

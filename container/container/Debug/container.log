@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\user\desktop\c++ practice\container\container\main.cpp(14): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(66): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(77): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(93): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\c++ practice\container\container\main.cpp(127): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  container.vcxproj -> C:\Users\user\Desktop\C++ practice\container\Debug\container.exe

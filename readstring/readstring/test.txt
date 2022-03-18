@@ -1,0 +1,3 @@
+Terminology invoking "objects" and "oriented" in the modern sense of object-oriented programming made its first appearance at MIT in the late 1950s and early 1960s.
+In the environment of the artificial intelligence group, as early as 1960, "object" could refer to identified items (LISP atoms) with properties (attributes) Alan Kay was later to cite a detailed understanding of LISP internals as a strong influence on his thinking in 1966.
+Another early MIT example was Sketchpad created by Ivan Sutherland in 1960-61 in the glossary of the 1963 technical report based on his dissertation about Sketchpad, Sutherland defined notions of "object" and "instance" (with the class concept covered by "master" or "definition"), albeit specialized to graphical interaction.
